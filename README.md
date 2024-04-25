@@ -51,7 +51,7 @@ ___
 ___
 * Projeto 2 - Regressão com Decision Tree:
 
-  Arquivo ('*preojeto-2.ipynb*')
+  Arquivo ('*projeto-2.ipynb*')
 
   Segundo projeto do curso Cientista de Dados da EBAC. Contrução de um projeto com análise estatística e regressão com Decision Tree para previsão da renda, utilizando a metodologia Crisp-DM.
 ___
