@@ -71,14 +71,8 @@ ___
 
   O segundo realiza uma coleta de filmes no site IMDB, coletando e armazenando os filmes mais bem avaliados por gênero.
 ___
-* Outros:
+* Otimização de Parâmetros com Gradient Descend:
 
-  Arquivos ('*GD.ipynb*', '*DataViz.ipynb*', '*Olimp.ipynb*')
+  Arquivo ('*GD.ipynb*')
 
-  Estes 3 miniprojetos são voltados a estudo.
-
-  O primeiro é a aplicação de Gradiente Descendente na otimização de um algorítmo de regressão linear.
-
-  O segundo é uma breve aplicação de tecnicas de visualização de dados.
-
-  O terceiro contém uma breve aplicação de técnicas de análise de dados.
+  Aplicação da técnica de Gradiente Decendente para otimização de um algorítmo de regressão linear.
