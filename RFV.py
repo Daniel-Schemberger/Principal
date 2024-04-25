@@ -2,8 +2,11 @@
     O código a seguir é a criação de uma aplicação que realiza análise
 e segmentação de dados com RFV utilizando o Streamlit.
     A aplicação está online, com deploy feito pelo Render.
+    
 link da aplicação: https://app-rfv-wc1j.onrender.com
 
+    Para utilizar a aplicação, basta carregar os dados disponibilizados
+neste mesmo repositório com o nome "data.csv"
 """
 
 
