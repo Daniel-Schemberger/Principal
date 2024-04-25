@@ -35,7 +35,12 @@ ___
   Arquivo ('*projeto-final.ipynb*')
 
   Este projeto é a conclusão do curso 'Python para Análise de Dados' da EBAC. Nele é realizado todas etapas de análise de dados, partindo do carregamento dos dados, limpeza, análise exploratória e visualização.
+___
+* Projeto Final - SQL para Análise de Dados:
 
+  Arquivo ('*Projeto FinalSQL.ipynb*')
+
+  Este projeto é a conclusão do curso 'SQL para Análise de Dados' da EBAC. O projeto foi desenvolvido utilizando uma base de dados armazenados com AWS S3 e as queries foram realizadas utilizando Amazon Athena.
 ___
 * Projeto 1 - Classificação com Decision Tree:
 
