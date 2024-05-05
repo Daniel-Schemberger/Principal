@@ -3,7 +3,7 @@
 Esta branch é dedicada a criação do meu portfólio em ciência de dados. O portfolio conta com porjetos gerais, desde webscrapping, análise e visualização de dados até projetos completos de machine learning com os principais algorítmos e testes.
 ______
 ### Projetos
-Esta sessão contém descrições gerais dos porjetos armazenados na branch.
+Esta sessão contém descrições gerais dos projetos armazenados na branch.
 
 ___
 * Aplicação de Segmentação RFV de Dados:
@@ -51,7 +51,7 @@ ___
 ___
 * Projeto 2 - Regressão com Decision Tree:
 
-  Arquivo ('*preojeto-2.ipynb*')
+  Arquivo ('*projeto-2.ipynb*')
 
   Segundo projeto do curso Cientista de Dados da EBAC. Contrução de um projeto com análise estatística e regressão com Decision Tree para previsão da renda, utilizando a metodologia Crisp-DM.
 ___
@@ -71,14 +71,8 @@ ___
 
   O segundo realiza uma coleta de filmes no site IMDB, coletando e armazenando os filmes mais bem avaliados por gênero.
 ___
-* Outros:
+* Otimização de Parâmetros com Gradient Descend:
 
-  Arquivos ('*GD.ipynb*', '*DataViz.ipynb*', '*Olimp.ipynb*')
+  Arquivo ('*GD.ipynb*')
 
-  Estes 3 miniprojetos são voltados a estudo.
-
-  O primeiro é a aplicação de Gradiente Descendente na otimização de um algorítmo de regressão linear.
-
-  O segundo é uma breve aplicação de tecnicas de visualização de dados.
-
-  O terceiro contém uma breve aplicação de técnicas de análise de dados.
+  Aplicação da técnica de Gradiente Decendente para otimização de um algorítmo de regressão linear.
