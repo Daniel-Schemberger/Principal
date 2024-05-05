@@ -1,6 +1,6 @@
 # Portfolio
 
-Esta branch é dedicada a criação do meu portfólio em ciência de dados. O portfólio conta com porjetos gerais, desde webscrapping, análise e visualização de dados até projetos completos de machine learning com os principais algorítmos e testes.
+Esta branch é dedicada a criação do meu portfólio em ciência de dados. O portfolio conta com porjetos gerais, desde webscrapping, análise e visualização de dados até projetos completos de machine learning com os principais algorítmos e testes.
 ______
 ### Projetos
 Esta sessão contém descrições gerais dos porjetos armazenados na branch.
